@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "tonychoutdara",
+    "password": null,
+    "database": "cars_dev2",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
